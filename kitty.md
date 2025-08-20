@@ -23,7 +23,7 @@ kitty_mod cmd+shift
 enabled_layouts splits
 
 # kitty起動時に読み込むセッションファイル
-startup_session ~/.config/kitty/startup-session.conf
+# startup_session ~/.config/kitty/startup-session.conf
 
 
 # ----------------------------------
